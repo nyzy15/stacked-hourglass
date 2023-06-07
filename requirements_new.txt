@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pillow
+tensorflow
+matplotlib
+tqdm
+mnn
+onnxruntime
+tensorflow_model_optimization
